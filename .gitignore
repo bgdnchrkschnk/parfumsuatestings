@@ -1,0 +1,5 @@
+/bin/
+/lib/python3.9/site-packages/
+/.Python
+/pyvenv.cfg
+/.idea/
